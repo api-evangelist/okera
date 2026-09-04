@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.okera.com/', status: 301, note: 'declared website redirects to https://www.databricks.com/ — a different registrable domain (okera.com -> databricks.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/okera.png
 name: Okera
 description: 'Okera was a data access governance and data security platform providing fine-grained,
